@@ -2,6 +2,12 @@ Aplikasi LinkedOn
 
 Aplikasi ini adalah Aplikasi Social Media khusus untuk pelamar kerja.
 
+Agar aplikasi ini bisa berjalan
+- pull repository ini 
+- lalu jalankan 
+npm install 
+untuk menginstall semua third party yang dibutuhkan. 
+
 Third Party yang digunakan : 
 - NativeBase 
 - Axios
